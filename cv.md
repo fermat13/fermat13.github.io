@@ -1,5 +1,6 @@
 Johnny Coder - CV
 ----------------
+[home](README.md)
 
 Education
 ---------

@@ -2,7 +2,7 @@ Johnny Coder - CV
 ----------------
 [home](README.md)
 
-Education
+🎓 Education
 ---------
 
 2010-2014 (expected)
@@ -17,7 +17,7 @@ Education
 
     *Minor: Awesomeology*
 
-Experience
+👨🏻‍💻 Experience
 ----------
 
 **Your Most Recent Work Experience:**

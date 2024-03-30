@@ -1,6 +1,6 @@
 Johnny Coder - CV
 ----------------
-[home](README.md)
+[home](https://fermat13.github.io/)
 
 🎓 Education
 ---------
